@@ -1,2 +1,8 @@
 # installation of tensorflow
 https://www.tensorflow.org/install/pip
+
+https://discuss.tensorflow.org/t/tensorflow-2-5-with-gpu-device-python-3-9-cuda-11-2-2-cudnn-8-1-1-conda-environment-windows-10/1385
+
+https://machinelearningprojects.net/install-tensorflow-with-cuda-and-cudnn/
+
+https://www.tensorflow.org/install/pip#windows-wsl2
